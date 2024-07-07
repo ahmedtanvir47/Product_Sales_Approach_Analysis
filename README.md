@@ -1,7 +1,7 @@
 # Sales-Approach-Analysis-with-Python
 Hello! :D
 
-This repo hosts the project that earned me my DataCamp Profesional [certification](https://www.datacamp.com/certificate/DA0021457928745). For this project, I was tasked to analyze data from the sales team of Pens and Printers. 
+This repo hosts the project that earned me my DataCamp Profesional [certification](https://www.datacamp.com/certificate/DA0028934332278). For this project, I was tasked to analyze data from the sales team of Pens and Printers. 
 
 Pens and Printers is a company that provides high-quality office products to large organizations. They provide everything from pens and notebooks to desk chairs and monitors. They don’t produce their products but sell those made by other companies.
 
@@ -31,5 +31,5 @@ to use if the results are similar.
 
 Well, I bagged the certification tells you that I did a great job delivering on this. 
 
-Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
-View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf)
+<!-- Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
+## View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf) -->
