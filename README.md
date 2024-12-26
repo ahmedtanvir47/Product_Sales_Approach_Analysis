@@ -23,5 +23,5 @@ The executive team sought an analysis of the effectiveness of these sales approa
 The successful completion of this project and certification demonstrate my ability to deliver actionable insights and data-driven recommendations.
 
 
-<!-- Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
-## View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf) -->
+Dive into the project [Here](https://www.datacamp.com/datalab/w/5d2c407f-92c7-42e7-9f37-dd0a9b6f6df0/)
+<!-- ## View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf) -->
