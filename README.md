@@ -12,7 +12,7 @@ The company's focus is on providing tools that help customers enhance creativity
 
 **Email and Call:** Customers first received an email with product information and were subsequently called a week later. The initial email required little effort, while the follow-up call averaged ten minutes per customer.
 
-![](product_sales.png)
+![](/images/product_sales.png)
 
 The executive team sought an analysis of the effectiveness of these sales approaches for the new product line. They needed insights on:
 
@@ -40,18 +40,28 @@ The dataset initially contained 15,000 rows and 8 columns. After validation and 
 - **Call:** Used for 34.3% of customers.  
 - **Email + Call:** Used for 16% of customers.  
 
+![](images/newplot.png)
+![](images/newplot%20(1).png)
+
 #### 2. Spread of Revenue  
 - Overall revenue ranged between $32.54 and $107.33.  
 - **Email + Call:** Revenue ranged between $155.77 and $191.12 (median: $184.74).  
 - **Call:** Revenue ranged between $41.47 and $52.68.  
 - **Email:** Revenue ranged between $87.88 and $105.17.
 
+![](images/newplot%20(2).png)
+![](images/newplot%20(3).png)
+
 #### 3. Revenue Over Time  
 - **Email** generated the highest revenue over time, followed closely by **Email + Call**.  
 - Revenue peaked in the first year of customer engagement and gradually declined in subsequent years.  
 
+![](images/newplot%20(4).png)
+
 #### 4. Items Sold  
 The number of items sold closely mirrored the revenue trends across all methods, with **Email + Call** consistently yielding higher results.
+
+![](images/newplot%20(5).png)
 
 ### Recommendation
 
