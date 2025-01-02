@@ -1,6 +1,7 @@
 # Project Overview
 
 This repository contains the project that earned me my DataCamp Professional [certification](https://www.datacamp.com/certificate/DA0028934332278). In this project, I analyzed sales data from the company Pens and Printers.
+![](product_sales.png)
 
 Pens and Printers supplies high-quality office products, ranging from pens and notebooks to desk chairs and monitors, to large organizations. Although they do not manufacture their products, they specialize in selling items produced by other companies.
 
