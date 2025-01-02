@@ -20,8 +20,41 @@ The executive team sought an analysis of the effectiveness of these sales approa
 - Recommendations on the most effective method, considering the time investment required from the sales team.
 - Any additional insights into differences between customer groups that could inform future strategies.
 
+### Data Validation and Cleaning
+
+The dataset initially contained 15,000 rows and 8 columns. After validation and cleaning, the dataset was reduced to 13,926 rows. Key validation steps included:
+
+- **Week:** No missing values; no cleaning required.  
+- **Sales Method:** Corrected invalid entries and standardized values.  
+- **Customer ID:** Verified uniqueness; no cleaning required.  
+- **Revenue:** Cleaned 1,074 rows with missing values.  
+- **Years as Customer:** Corrected outliers beyond 40 years.  
+- **State and Other Columns:** Verified consistency; no cleaning required.
+
+### Key Insights
+
+#### 1. Distribution of Sales Methods  
+- **Email:** Used for 49.7% of customers.  
+- **Call:** Used for 34.3% of customers.  
+- **Email + Call:** Used for 16% of customers.  
+
+#### 2. Spread of Revenue  
+- Overall revenue ranged between $32.54 and $107.33.  
+- **Email + Call:** Revenue ranged between $155.77 and $191.12 (median: $184.74).  
+- **Call:** Revenue ranged between $41.47 and $52.68.  
+- **Email:** Revenue ranged between $87.88 and $105.17.
+
+#### 3. Revenue Over Time  
+- **Email** generated the highest revenue over time, followed closely by **Email + Call**.  
+- Revenue peaked in the first year of customer engagement and gradually declined in subsequent years.  
+
+#### 4. Items Sold  
+The number of items sold closely mirrored the revenue trends across all methods, with **Email + Call** consistently yielding higher results.
+
 The successful completion of this project and certification demonstrate my ability to deliver actionable insights and data-driven recommendations.
 
+Dive into the project [Here](https://www.datacamp.com/datalab/w/5d2c407f-92c7-42e7-9f37-dd0a9b6f6df0/)
+## View the presentation slides for the executive team [Here](https://github.com/ahmedtanvir47/Product_Sales_Approach_Analysis/blob/main/Practical%20Exam%20Presentation.pdf)
 
 <!-- Dive into the project [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/workspace%20Pen%26Printers/workspace/notebook.ipynb)
 ## View the presentation slides for the executive team [Here](https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python/blob/main/PRACTICAL%20EXAM%20PRESENTATION%20-%20Christian%20Jachimma%20%20Christian.pdf) -->
