@@ -1,7 +1,6 @@
 # Project Overview
 
 This repository contains the project that earned me my DataCamp Professional [certification](https://www.datacamp.com/certificate/DA0028934332278). In this project, I analyzed sales data from the company Pens and Printers.
-![](product_sales.png)
 
 Pens and Printers supplies high-quality office products, ranging from pens and notebooks to desk chairs and monitors, to large organizations. Although they do not manufacture their products, they specialize in selling items produced by other companies.
 
@@ -12,6 +11,8 @@ The company's focus is on providing tools that help customers enhance creativity
 **Call:** Customers were contacted by a sales team member, with each call averaging around thirty minutes per customer.
 
 **Email and Call:** Customers first received an email with product information and were subsequently called a week later. The initial email required little effort, while the follow-up call averaged ten minutes per customer.
+
+![](product_sales.png)
 
 The executive team sought an analysis of the effectiveness of these sales approaches for the new product line. They needed insights on:
 
@@ -52,7 +53,14 @@ The dataset initially contained 15,000 rows and 8 columns. After validation and 
 #### 4. Items Sold  
 The number of items sold closely mirrored the revenue trends across all methods, with **Email + Call** consistently yielding higher results.
 
-The successful completion of this project and certification demonstrate my ability to deliver actionable insights and data-driven recommendations.
+### Recommendation
 
-### Dive into the project [Here](https://www.datacamp.com/datalab/w/5d2c407f-92c7-42e7-9f37-dd0a9b6f6df0/)
-### View the presentation slides for the executive team [Here](https://github.com/ahmedtanvir47/Product_Sales_Approach_Analysis/blob/main/Practical%20Exam%20Presentation.pdf)
+Based on the data, **Email + Call** is the most effective sales strategy, offering the highest median revenue despite being used for only 16% of customers. While it requires more effort, the return on investment makes it a valuable approach.
+
+### Conclusion
+
+This project demonstrates how a data-driven approach can help businesses optimize sales strategies and improve decision-making. The insights and recommendations provided are actionable steps for Pens and Printers to enhance their sales performance and customer engagement.
+
+
+#### Dive into the project [Here](https://www.datacamp.com/datalab/w/5d2c407f-92c7-42e7-9f37-dd0a9b6f6df0/)
+#### View the presentation slides for the executive team [Here](https://github.com/ahmedtanvir47/Product_Sales_Approach_Analysis/blob/main/Practical%20Exam%20Presentation.pdf)
